@@ -122,5 +122,12 @@ This analysis enables water utility operators to:
 
 • Improve regulatory compliance
 
-• Reduce public health risk
+• Reduce public health risk  
+
+## Author
+Luke Papaevangeliou  
+Project Type: Operational Data Analysis  
+Dataset: Real-world infrastructure monitoring data (anonymized)
+
+
 
